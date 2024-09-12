@@ -1,4 +1,4 @@
-### 리액트 앱 수업에서 사용한 소스
+### 사용 소스
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
